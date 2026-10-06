@@ -1,0 +1,51 @@
+{
+  "item": {
+    "id": "979821804699",
+    "restype": "watchface",
+    "name": "LIME STACK",
+    "description": "LIME STACK_荧光绿像素方块表盘_条纹数字\n\n复刻_来自大家的设计想法_Lime_小米表盘 Lime Stack ... \n\n黑底荧光绿, 条纹方块数字上下堆叠, 亮屏时光点在分隔轨道间跳动, 息屏只留暗绿数字\n欢迎在小红书关注我 @叫我Brin就好, 我会主要在 astrobox 平台更新资源\n后续会通过与astrobox内嵌的爱发电平台更新付费表盘的资源",
+    "preview": [
+      "media/03-预览-荧光轨道.png",
+      "media/04-预览-浅色产品.png",
+      "media/05-预览-雨天佩戴.png"
+    ],
+    "icon": "media/01-图标-1比1.png",
+    "cover": "media/02-封面-3比2.png",
+    "author": [
+      {
+        "name": "brin",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "在小红书中的详细介绍",
+      "url": "https://xhslink.cn/o/ArX19MVZcxH",
+      "icon": "article"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "0.0.0",
+      "file_name": "downloads/Lime Stack.bin",
+      "versionCode": 0
+    },
+    "xmb10nfc": {
+      "version": "0.0.0",
+      "file_name": "downloads/Lime Stack.bin",
+      "versionCode": 0
+    },
+    "xmb11": {
+      "version": "0.0.0",
+      "file_name": "downloads/Lime Stack.bin",
+      "versionCode": 0
+    },
+    "xmb11nfc": {
+      "version": "0.0.0",
+      "file_name": "downloads/Lime Stack.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {}
+}
